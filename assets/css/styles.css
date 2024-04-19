@@ -58,20 +58,20 @@ a
 }
 h1
 {
-    font-size:48px;
+    font-size:36px;
     line-height:1.0625;
     font-weight:400;
     letter-spacing:-.009em;
-    color:#038BFD
+    /*color:#038BFD*/
 }
 h2
 {
-    font-size:40px;
+    font-size:34px;
     line-height:1.0625;
     font-weight:400;
     letter-spacing:-.009em;
-    color:#038BFD;
-    padding-top:1.1em;
+    /*color:#038BFD;*/
+    padding-top:0.75em;
     margin-top:1em;
     border-top:1px solid #d2d2d7;
     margin-bottom:.75em
@@ -83,7 +83,7 @@ h2
 }
 h5
 {
-    font-size:24px;
+    font-size:22px;
     line-height:1.2381;
     font-weight:400;
     letter-spacing:.016em;
@@ -95,7 +95,7 @@ p
     line-height:1.381;
     font-weight:400;
     letter-spacing:.011em;
-    margin-top:17px
+    margin-top:16px
 }
 .justify
 {
@@ -105,17 +105,23 @@ p
 #applogodiv
 {
     float:left;
-    height:150px
+    /*height:150px*/
+}
+#apptitlediv
+{
+    padding-left: 8px;
+    float:left;
+    /*height:150px*/
 }
 #appstorelogodiv
 {
     float:right;
     max-width:165px;
-    height:150px
+    /*height:150px*/
 }
 #appstorelogodiv img
 {
-    margin:13px
+    /*margin:13px*/
 }
 .textSection
 {

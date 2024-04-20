@@ -73,7 +73,8 @@ h2
     /*color:#038BFD;*/
     padding-top:0.75em;
     margin-top:1em;
-    border-top:1px solid #d2d2d7;
+    /*border-top:1px solid #d2d2d7;*/
+    border-top:1px solid rgba(210, 210, 215, 0.35);
     margin-bottom:.75em
 }
 .no-separator
@@ -133,6 +134,7 @@ p
 {
     float:left;
     margin-top:1em;
+    margin-bottom:2em;
     width:100%
 }
 li
